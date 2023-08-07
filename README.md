@@ -1,7 +1,6 @@
 ###                                                                    Hi there 👋 I'm Manish..
 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Frontend Web Development and UI Development.
 - 🌱 I’m currently learning MERN Stack Development and Full Stack Web Development.
