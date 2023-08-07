@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on Frontend Web Development and UI Development.
+- 🔭 I’m currently working on Frontend Web Development, UI Development and MERN Stack Development.
 - 🌱 I’m currently learning MERN Stack Development and Full Stack Web Development.
 - 👯 I’m looking to collaborate on Frontend and Web Development.
 - 💬 Ask me about here! I'm happy to help.
